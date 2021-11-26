@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
 
 function Sidebar() {
     return (
         <div className="Sidebar">
+            <link rel="stylesheet" href="https://replace.vercel.app/site-elements/assets/css/main.css" />
             <div id="sidebar">
 			<div class="inner">
 
