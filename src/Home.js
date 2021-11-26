@@ -384,6 +384,7 @@ function Home() {
                     <footer id="footer">
                         <p class="copyright">&copy; Cloudserve 2019-2021 | All rights reserved.</p>
                     </footer>
+                    <a href="#sidebar" class="toggle">Toggle</a>
                 </div>
             </div>
 
